@@ -1,0 +1,336 @@
+.left-sidebar-style {
+    background-color: #123e95;
+}
+.main-content-style {
+    background-color: #fcfcfc;
+}
+.doctor-patient-img {
+    height: 200px;
+    width: 300px;
+    border-radius: 0% !important;
+    border: none !important;
+}
+.doctor-consultation {
+    background-color: #ff572230;
+    height: 200px;
+    border-radius: 10px;
+    margin-bottom: 12px;
+}
+input {
+    width: 310px;
+    border-radius: 5px;
+}
+.main-card {
+    border-radius: 10px;
+    box-shadow:  0px 0px 19px #a4aaab;
+}
+.find-specialist {
+    height: 450px;
+    border-radius: 10px;
+}
+.doctor-health-credit {
+    background-color: #eadcec;
+    height: 350px;
+    border-radius: 10px;
+    text-align: center;
+    position: relative;   
+}
+.profileImage {
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+}
+.call-class {
+    margin-right: 30px;
+}
+.icon-style {
+    margin-left: 45%;
+    font-weight: bold;
+}
+.bi-gear {
+    margin-right: 5px;
+    font-weight: bold;
+}
+.background {
+    background-color: rgb(232 239 247);
+}
+.has-search {
+    position: relative;
+}
+.has-search .form-control-feedback {
+    position: absolute;
+    right: 5px;
+    z-index: 2;
+    display: block;
+    width: 2.375rem;
+    height: 2.375rem;
+    line-height: 2.375rem;
+    text-align: center;
+    pointer-events: none;
+    color: #aaa;
+    cursor: pointer;
+}
+.header4 {
+    font-size: 22px;
+    font-weight: 700;
+}
+.header5 {
+    font-size: 12px;
+    font-weight: 700;
+}
+.flex {
+    display: flex;
+    justify-content: space-around;
+}
+.btn-danger {
+    width: 164px;
+}
+.sidebar-icon-style1 {
+    font-size: 25px;
+    margin-top: 30px;
+    color: rgb(229, 224, 224);
+    margin-left: 20px;
+}
+.sidebar-icon-style {
+    font-size: 25px;
+    margin-top: 30px;
+    color: rgb(229, 224, 224);
+}
+li {
+    list-style-type: none;
+}
+.calender-icon {
+    margin-top: 25px;
+}
+.img-icon {
+    padding: 11px;
+}
+.choose-your-categery {
+    font-size: 12px;
+    font-weight: 700;
+    margin-left: 10px;
+    color: #aaa;
+}
+b {
+    position: relative;
+    top: -9px;
+}
+.online-doctore-list-para {
+    position: relative;
+    bottom: 20px;
+    margin-left: 47px;
+    font-size: 13px;
+    color: #aaa;
+}
+.doctor-online-icon {
+    display: inline-block;
+    position: relative;
+    left: 100px;
+}
+.dentist {
+    height: 70px;
+    width: 90%;
+    background-color: white;
+    margin: 20px;
+    border-radius: 15px;
+    box-shadow: 5px 5px rgb(199, 211, 215);
+}
+.specialistStyle{
+    height: 40px;
+    width: 45px;
+    position: relative;
+    top: 10px;
+    left: 10px;
+    border-radius: 10px;
+    display: inline-block;
+}
+.teeth-icon {
+    background-color: #97eae7;
+    color: #22ddd7;
+}
+.find-specialist-icon-surgun {
+    background-color: #f1d4f4;
+    color: #e972f6;
+}
+
+.find-specialist-icon-Orthopedist {
+    background-color: #66e1c2;
+    color: #074838;
+}
+.find-specialist-icon-genral {
+    background-color: #ec7c13;
+    color: #5a300a;
+}
+.find-specialist-icon {
+    font-size: 25px;
+    padding: 10px;
+}
+.find-specialist-text {
+    padding-left: 20px;
+    position: relative;
+    top: 2px;
+}
+.find-specialist-text-para {
+    position: relative;
+    bottom: 6px;
+    margin-left: 68px;
+    font-size: 13px;
+    color: #aaa;
+}
+.doctor-health-credit-para {
+    font-size: 12px;
+    font-weight: 700;
+    margin-left: 10px;
+}
+.marginTop{
+    margin-top: -16px;
+}
+#donut {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    text-align: center;
+    position: relative;
+    left: 20px;
+    bottom: 20px;
+    background: conic-gradient(blue 0deg 170deg,
+            #e8eff7 170deg 240deg,
+            green 240deg 300deg,
+            red 300deg 360deg);
+}
+.innerDonut {
+    width: 130px;
+    height: 130px;
+    background: conic-gradient(blue 0deg 170deg,
+            grey 170deg 240deg,
+            green 240deg 300deg,
+            red 300deg 360deg);    
+    border-radius: 50%;   
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+.innerMostDonut {
+    width: 110px;
+    height: 110px;
+    border-radius: 50%;
+    background-color: white;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+.vitamin-A {
+    display: inline-block;
+    position: relative;
+    left: 200px;
+}
+
+.vitamin-A-text,.vitamin-C-text,.vitamin-D-text {
+    height: 10px;
+    width: 10px;
+    background-color: #97eae7;
+    color: #22ddd7;
+    position: relative;
+    top: 2px;
+    left: 17px;
+    border-radius: 2px;
+    display: inline-block;
+}
+.backgroundGreen{
+    background-color: green;
+}
+.backgroundRed{
+    background-color: red;
+}
+.backgroundBlue{
+    background-color:blue; 
+}
+.vitamin-A-text-para,.vitamin-C-text-para,.vitamin-D-text-para {
+    margin-top: 0px;
+    margin-left: -6px;
+    font-size: 13px;
+    color: #aaa;
+}
+.expand-text {
+    position: relative;
+    bottom: 41px;
+    left: 286px;
+    font-weight: 500;
+    color: #3a69c8;
+}
+.Water-balance {
+    font-size: 22px;
+    font-weight: 700;
+    margin-left: 40px;
+    position: relative;
+    top: 20px;
+    padding-bottom: 30px;
+}
+.graph-bar {
+    height: 160px;
+    width: 300px;
+}
+.graph-date {
+    padding-left: 20px;
+    position: relative;
+    top: 2px;
+}
+.graph-text {
+    margin-top: 6px;
+    margin-left: 18px;
+    font-size: 13px;
+    color: #aaa;
+}
+.graph-maintain {
+    display: inline-block;
+    margin-left: 20px;
+}
+.cutout {
+    margin-left: 15px;
+    margin-top: 15px;
+    width: 190px;
+    height: 190px;
+    position: absolute;
+    background-color: white;
+    border-radius: 50%;
+}
+.debitcard {
+    height: 140px;
+    width: 250px;
+    background-color: #f79ed5;
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%);
+    border-radius: 4%;
+}
+.debitcard-text {
+    font-size: 12px;
+    font-weight: 700;
+    position: absolute;
+    left: 10px;
+    top: 10px;
+    color: #181616;
+}
+.debitDetail {
+    font-size: 12px;
+    font-weight: 700;
+    margin: 20px;
+    position: absolute;
+    left: -8px;
+    top: 51px;
+    color: #181616;
+    text-align: left !important;
+}
+#myCanvas {
+    margin-left: 35px;
+    color: blue;
+}
+.imgDoctor {
+    opacity: 0.1;
+}
+.btn-danger {
+    background-color: #ff5722 !important;
+    border: none !important;
+}
